@@ -1,6 +1,6 @@
 # LJ Code 201 - Day 1
 
-First day of Coding begin and I learn so much already in one day.  For start, I learn about Terminal and all the function that we going to be using in class. Example:
+First day of Coding begin and I learn so much already in one day.  So much materials in one day. For start, I learn about Terminal, Git and all the function that we going to be using in class. Example:
 
 - Creating Repo
 - Create file
@@ -14,4 +14,4 @@ Learn about the structure and elements of HTML and layout. The tags that are use
 
 ### JAVASCRIPT
 
-We learn about Var, Console.log and
+We learn the basic of JAVASCRIPT like Var, String, Prompt and Console.log.  How they are work together in the back ground to create something in the webpage.
